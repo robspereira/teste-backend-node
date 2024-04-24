@@ -1,0 +1,11 @@
+{
+  "name": "teste-backend-node",
+  "version": "1.0.0",
+  "description": "Node test project that simulates album pucharses using Spotify's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberto Lucas",
+  "license": "ISC"
+}
