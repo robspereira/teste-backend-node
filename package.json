@@ -4,12 +4,13 @@
   "description": "Node test project that simulates album pucharses using Spotify's API",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node-dev server.ts"
+    "dev": "ts-node-dev src/app.ts"
   },
   "author": "Roberto Lucas",
   "license": "ISC",
   "dependencies": {
-    "@prisma/client": "^5.13.0"
+    "@prisma/client": "^5.13.0",
+    "fastify": "^4.26.2"
   },
   "devDependencies": {
     "prisma": "^5.13.0",
